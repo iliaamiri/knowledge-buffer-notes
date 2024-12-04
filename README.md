@@ -1,4 +1,2 @@
 # Knowledge Buffer
 
-
-klnklj
