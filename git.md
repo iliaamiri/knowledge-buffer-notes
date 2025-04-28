@@ -3,12 +3,6 @@ To update the local list of remote branches:
 git remote update origin --prune
 ```
 
-Show all branches (including remotes)
-```
-git branch -a
-```
-
-
 ## Remove cached git files/folders
 A folder:
 
